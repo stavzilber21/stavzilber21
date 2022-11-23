@@ -22,4 +22,14 @@ You can see heer my projects - enjoy🙂
 - 🌱 I’m currently learning Computer Science & Mathematics at Ariel University.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about anything you want and I will try to help.
-- 📫 How to reach me: stavzilber@gmail.com , https://www.linkedin.com/in/stav-zilber-553165163/
+- 📫 How to reach me: stavzilber@gmail.com 
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/stav-zilber-553165163/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+ 
+ <a href="https://www.facebook.com/profile.php?id=100000487432626">
+  <img height="50" src="https://www.facebook.com/images/fb_icon_325x325.png"/>
+</a>
