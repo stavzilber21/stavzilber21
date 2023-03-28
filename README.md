@@ -30,6 +30,5 @@ You can see heer my projects - enjoy🙂
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
  
- <a href="https://www.facebook.com/profile.php?id=100000487432626">
   <img height="50" src="https://www.facebook.com/images/fb_icon_325x325.png"/>
 </a>
