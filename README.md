@@ -28,7 +28,4 @@ You can see heer my projects - enjoy🙂
 <p align="center">
 <a href="https://www.linkedin.com/in/stav-zilber-553165163/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
- 
-  <img height="50" src="https://www.facebook.com/images/fb_icon_325x325.png"/>
-</a>
+
