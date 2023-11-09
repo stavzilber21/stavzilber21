@@ -11,7 +11,10 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+🙋‍♀️+welcome!!!)](https://git.io/typing-svg)
 
-My name is Stav Zilber, I'm a Computer Science & Mathematics BSc student at Ariel University 3rd year.                         
+Hey, my name is Stav Zilber 🙋‍♀️
+I graduated with a bachelor's degree in computer science and mathematics.
+looking for a full time position in software development.
+Highly motivated, with excellent interpersonal skills.                        
 You can see heer my projects - enjoy🙂   
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rotshira)
@@ -19,7 +22,6 @@ You can see heer my projects - enjoy🙂
 
  
 *About me* :
-- 🌱 I’m currently learning Computer Science & Mathematics at Ariel University.
 - 🤔 I’m looking for help with finding a job.
 - 💬 Ask me about anything you want and I will try to help.
 - 📫 How to reach me: stavzilber@gmail.com 
