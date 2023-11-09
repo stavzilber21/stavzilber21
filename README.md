@@ -11,7 +11,7 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+🙋‍♀️+welcome!!!)](https://git.io/typing-svg)
 
-Hey, my name is Stav Zilber 🙋‍♀️
+Hi, my name is Stav Zilber,
 I graduated with a bachelor's degree in computer science and mathematics.
 looking for a full time position in software development.
 Highly motivated, with excellent interpersonal skills.                        
