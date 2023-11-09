@@ -13,11 +13,8 @@
 
 Hi, my name is Stav Zilber,
 I graduated with a bachelor's degree in Computer Science and Mathematics.
-
 Looking for a full time position in software development.
-
-Highly motivated, with excellent interpersonal skills.   
-                     
+Highly motivated, with excellent interpersonal skills.                  
 You can see heer my projects - enjoy🙂   
 
 
