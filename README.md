@@ -1,4 +1,4 @@
-![גיטחתוך](https://user-images.githubusercontent.com/93096648/147507755-520855da-57e1-458f-8dbb-a8068a56db3f.jpeg)
+,![גיטחתוך](https://user-images.githubusercontent.com/93096648/147507755-520855da-57e1-458f-8dbb-a8068a56db3f.jpeg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400" img align="center" src="https://github-readme-stats.vercel.app/api?username=stavzilber21&show_icons=true&theme=radical" />
@@ -12,12 +12,10 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+🙋‍♀️+welcome!!!)](https://git.io/typing-svg)
 
 Hi, my name is Stav Zilber,
-I graduated with a bachelor's degree in computer science and mathematics.
-looking for a full time position in software development.
+I graduated with a bachelor's degree in Computer Science and Mathematics.
+Looking for a full time position in software development.
 Highly motivated, with excellent interpersonal skills.                        
 You can see heer my projects - enjoy🙂   
-
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rotshira)
 
 
  
