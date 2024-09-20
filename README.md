@@ -9,11 +9,11 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+🙋‍♀️+welcome!!!)](https://git.io/typing-svg)
 
-Hi, my name is Stav Zilber,
-I graduated with a bachelor's degree in Computer Science and Mathematics.
-Looking for a full time position in software development.
-Highly motivated, with excellent interpersonal skills.                  
-You can see heer my projects - enjoy🙂   
+Hi, my name is Stav Zilber 🙋‍♀️
+Experienced Full Stack Developer and with deep knowledge in React, NodeJS, and MongoDB. 
+Motivated for my next challenge in a company that is looking for a great team player and self-learner to 
+develop end-to-end web applications and deal with challenging problems. 
+You can see heer my projects - enjoy🙂
 
 
  
